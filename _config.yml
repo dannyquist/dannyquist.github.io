@@ -3,10 +3,10 @@
 #
 theme: jekyll-theme-slate
 # Name of your site (displayed in the header)
-name: Open Malware
+name: Open Malware - Danny Quist
 
 # Short bio or description (displayed in the header)
-description: Reverse Engineering Research - Danny Quist
+description: Reverse Engineering and 3D Printing - Danny Quist
 
 excerpt_separator: <!--more-->
 
